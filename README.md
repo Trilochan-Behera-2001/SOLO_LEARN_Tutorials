@@ -3,13 +3,13 @@
 
 --->This project leverages a robust technology stack, including:
 
-JDBC: for seamless interaction with the database.
-JSP (JavaServer Pages): for dynamic and efficient web page rendering.
-Servlet: for handling requests and managing the application's flow.
-MySQL: as the reliable and scalable relational database management system.
-Bootstrap: for responsive and visually appealing front-end development.
-CSS: to style and enhance the overall user interface.
-JavaScript: for interactive and dynamic client-side scripting.
+1. JDBC: for seamless interaction with the database
+2. JSP (JavaServer Pages): for dynamic and efficient web page rendering
+3. Servlet: for handling requests and managing the application's flow
+4. MySQL: as the reliable and scalable relational database management system
+5. Bootstrap: for responsive and visually appealing front-end development
+6. CSS: to style and enhance the overall user interface
+7. JavaScript: for interactive and dynamic client-side scripting
 and etc....
 
 --->"This Project is exclusively hosted on localhost for a controlled and optimized environment."
